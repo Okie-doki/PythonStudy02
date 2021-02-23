@@ -1,0 +1,7 @@
+# list.count() 리스트에서 값이 동일한 요소의 개수 리턴
+listdata = [2, 2, 1, 3, 8, 5, 7, 
+            6, 3, 6, 2, 3, 9, 4, 4]
+c1 = listdata.count(2)
+c2 = listdata.count(7)
+print(c1)
+print(c2)
